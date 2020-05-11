@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "name" : "pacific rim",
+        "tel" : "09856478456",
+        "permission" : 1
+    },
+    {
+        "id" : 2,
+        "name" : "Ironman",
+        "tel" : "09856784456",
+        "permission" : 2
+    },
+    {
+        "id" : 3,
+        "name" : "Shisedo",
+        "tel" : "09858456246",
+        "permission" : 3
+    },
+    {
+        "id" : 4,
+        "name" : "Kuduna",
+        "tel" : "09812348456",
+        "permission" : 1
+    },
+    {
+        "id" : 5,
+        "name" : "Hara chisi",
+        "tel" : "09812348456",
+        "permission" : 1
+    },
+    {
+        "id" : 6,
+        "name" : "Chitose hara",
+        "tel" : "09832148456",
+        "permission" : 2
+    }
+]
